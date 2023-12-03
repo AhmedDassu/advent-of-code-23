@@ -1,6 +1,6 @@
 numbers_dict = {}  # dictionary for storing digits
 
-file = 'input.txt'
+file = 'day1/input.txt'
 
 
 with open(file, 'r') as file:  # open the file
